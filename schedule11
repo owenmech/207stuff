@@ -3,9 +3,9 @@
   "insertname": "ALICE Training",
   "insert": 3,
   
-  "south": "true",
-  "west": "false",
-  "east": "false",
+  "school6": "true",
+  "school1": "false",
+  "school8": "false",
   
   
   "length": 18,
