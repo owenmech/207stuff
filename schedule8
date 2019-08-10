@@ -4,53 +4,6 @@
   "insert": 4,
   
   
-  "periodnameslength": 13,
-  
-  "period0": "1",
-  "period1": "2",
-  "period2": "3A",
-  "period3": "3B",
-  "period4": "EXMPL",
-  "period5": "4A",
-  "period6": "4B",
-  "period7": "5A",
-  "period8": "5B",
-  "period9": "6A",
-  "period10": "6B",
-  "period11": "7",
-  "period12": "8",
- 
-  
-  "fulllength": 26,
-  
-  "fulltime0": 820,
-  "fulltime1": 900,
-  "fulltime2": 905,
-  "fulltime3": 945,
-  "fulltime4": 950,
-  "fulltime5": 1007,
-  "fulltime6": 1012,
-  "fulltime7": 1030,
-  "fulltime8": 1035,
-  "fulltime9": 1135,
-  "fulltime10": 1140,
-  "fulltime11": 1157,
-  "fulltime12": 1202,
-  "fulltime13": 1220,
-  "fulltime14": 1225,
-  "fulltime15": 1242,
-  "fulltime16": 1247,
-  "fulltime17": 1305,
-  "fulltime18": 1310,
-  "fulltime19": 1327,
-  "fulltime20": 1332,
-  "fulltime21": 1350,
-  "fulltime22": 1355,
-  "fulltime23": 1435,
-  "fulltime24": 1440,
-  "fulltime25": 1519,
-  
-  
   "length": 18,
   
   "time0": 820,
