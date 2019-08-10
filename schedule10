@@ -1,0 +1,27 @@
+{
+  "name": "Homeroom Day",
+  "insertname": "HOMEROOM",
+  "insert": 3,
+  
+  
+  "length": 18,
+  
+  "time0": 820,
+  "time1": 910,
+  "time2": 915,
+  "time3": 955,
+  "time4": 1000,
+  "time5": 1050,
+  "time6": 1055,
+  "time7": 1135,
+  "time8": 1140,
+  "time9": 1220,
+  "time10": 1225,
+  "time11": 1305,
+  "time12": 1310,
+  "time13": 1350,
+  "time14": 1355,
+  "time15": 1435,
+  "time16": 1440,
+  "time17": 1519
+}
