@@ -3,6 +3,10 @@
   "insertname": "EXAMPLE CLASS",
   "insert": 4,
   
+  "south": "true",
+  "west": "false",
+  "east": "false",
+  
   
   "length": 18,
   
