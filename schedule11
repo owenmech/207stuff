@@ -3,6 +3,10 @@
   "insertname": "ALICE Training",
   "insert": 3,
   
+  "south": "true",
+  "west": "false",
+  "east": "false",
+  
   
   "length": 18,
   
