@@ -1,0 +1,31 @@
+{
+  "name": "Short Day",
+  "insertname": "_______",
+  "insert": 1,
+  
+  "school6": "true",
+  "school1": "false",
+  "school8": "false",
+  
+  
+  "length": 18,
+  
+  "time0": 745,
+  "time1": 745,
+  "time2": 745,
+  "time3": 818,
+  "time4": 823,
+  "time5": 856,
+  "time6": 901,
+  "time7": 934,
+  "time8": 939,
+  "time9": 1012,
+  "time10": 1017,
+  "time11": 1050,
+  "time12": 1055,
+  "time13": 1128,
+  "time14": 1133,
+  "time15": 1206,
+  "time16": 1211,
+  "time17": 1245
+}
